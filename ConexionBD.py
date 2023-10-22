@@ -22,5 +22,5 @@ doc = {
     },
     "alojamiento": "Four seasons",
     "requiereTransporte": "No"
-}
+}  
 db.save(doc)
